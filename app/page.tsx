@@ -201,7 +201,7 @@ export default function AILmsPage() {
         </div>
       </section>
 
-      <section id="how-it-works" className="bg-slate-950 py-24 text-white">
+      <section id="how-it-works" className="bg-slate-750 py-24 text-white">
         <div className="mx-auto max-w-7xl px-6 sm:px-8 lg:px-12">
           <SectionTitle
             eyebrow="How it works"
